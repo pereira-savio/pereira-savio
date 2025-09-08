@@ -53,7 +53,7 @@ echo $savio;
 
 <h3 align="center">Contact me</h3>
 <div align="center">
-	<a href="https://www.linkedin.com/in/saviorenato/" target="_blank">
+	<a href="https://www.linkedin.com/in/savio-pereira-dev/" target="_blank">
 		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="mailto:saviorenato@gmail.com" target="_blank">
@@ -65,7 +65,7 @@ echo $savio;
 	<a href="https://discord.gg/3We3reBt" target="_blank">
 		<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 	</a>
-	<a href="https://medium.com/@saviorenato" target="_blank">
+	<a href="https://medium.com/@savio-pereira" target="_blank">
 		<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 	</a>
 </div>
