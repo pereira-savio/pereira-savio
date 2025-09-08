@@ -20,7 +20,7 @@ $savio = [
     "bio" => "I love to understand how things work and how to improve them 👨‍💻 🕵️",
 
     // Coding
-    "projects" => [ "Digital Certificate", "PaymentHub", "Campino", "DarfBrasil" ],
+    "projects" => [ "DiggiPay", "PaymentHub", "Siscamp", "DarfBrasil" ],
     "favoriteLanguages" => [ "PHP", "Go" ],
 ];
 
