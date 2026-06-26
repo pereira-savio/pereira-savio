@@ -21,7 +21,7 @@ $savio = [
 
     // Coding
     "projects" => [ "DiggiPay", "PaymentHub", "Siscamp", "DarfBrasil" ],
-    "favoriteLanguages" => [ "PHP", "Go" ],
+    "favoriteLanguages" => [ "PHP" ],
 ];
 
 echo $savio;
@@ -61,9 +61,6 @@ echo $savio;
 	</a>
 	<a href="https://web.whatsapp.com/send?phone=5519998806550" target="_blank">
 		<img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-	</a>
-	<a href="https://discord.gg/3We3reBt" target="_blank">
-		<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 	</a>
 	<a href="https://medium.com/@savio-pereira" target="_blank">
 		<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
